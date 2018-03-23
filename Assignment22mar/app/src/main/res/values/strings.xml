@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment22mar</string>
+    <string name="enter_name">Enter Username</string>
+    <string name="enter_pwd">Enter Password</string>
+    <string name="remember_pwd">Remember Password</string>
+    <string name="signin">Login</string>
+    <string name="cancel">Cancel</string>
+</resources>

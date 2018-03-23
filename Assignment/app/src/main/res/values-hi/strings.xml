@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">रद्द करना</string>
+    <string name="signin">साइन इन करें</string>
+    <string name="rememberpwd">पासवर्ड याद रखें</string>
+    <string name="password">पास वर्ड दर्ज करें</string>
+    <string name="username">उपयोगकर्ता नाम दर्ज करें</string>
+</resources>
